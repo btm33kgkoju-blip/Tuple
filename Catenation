@@ -1,0 +1,17 @@
+t1 = (10,20,30)
+t2 = (40,50)
+
+print("Concatenation:", t1 + t2)
+
+print("Repetition", t1 *2)
+
+print("20 in t1:", 20 in t1)
+
+print("120 not in t1:", 120 not in t1)
+
+print("t1 == t2:", t1 == t2)
+print("t1 != t2:", t1 != t2)
+print("t1 > t2:", t1 == t2)
+print("t1 < t2:", t1 == t2)
+print("t1 <= t2:", t1 <= t2)
+print("t1 >= t2:", t1 >= t2)
