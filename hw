@@ -1,0 +1,4 @@
+test_tuple = (2, 3, 4, 5)
+
+result = tuple(map(lambda x: x * 2, test_tuple))
+print(result)
